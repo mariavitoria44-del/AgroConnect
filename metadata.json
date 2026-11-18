@@ -1,0 +1,6 @@
+{
+  "name": "AgroFácil - Gestão Rural Inteligente",
+  "description": "Plataforma integrada de gestão rural para pequenos produtores: produção, irrigação automatizada, sensores IoT, estoque, pragas e financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
